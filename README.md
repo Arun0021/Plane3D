@@ -2,4 +2,4 @@
 used three js to design a 3D background 
 
 
-https://arun0021.github.io/Plane3D/
+https://plane3-d.vercel.app
